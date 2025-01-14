@@ -12,4 +12,4 @@
 ## 🚀 My Projects
 Here are some of my projects:
 1. Blockchain([Link to repository](https://github.com/RaphiMuehlbacher/blockchain)) - My distributed peer-to-peer network serves the foundation of this blockchain for secure transactions).
-2. Nebula([Link to repository](https://github.com/RaphiMuehlbacher/blockchain)) - A lightweight Python backend framework inspired by Django, featuring Jinja2 templating, a custom ORM, API support, and auto-reloading for seamless development."
+2. Nebula([Link to repository](https://github.com/RaphiMuehlbacher/nebula)) - A lightweight Python backend framework inspired by Django, featuring Jinja2 templating, a custom ORM, API support, and auto-reloading for seamless development."
