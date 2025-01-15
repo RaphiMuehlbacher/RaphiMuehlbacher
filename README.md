@@ -1,9 +1,9 @@
- Hi there 👋, I'm Raphael Mühlbacher!
+ Hi there!👋 I'm Raphael Mühlbacher!
 
 ## 🙋‍♂️ About Me
 - 🎓 I’m a student at **HTL Anichstraße** in Innsbruck Austria, focusing on Economics and Software Development.
 - 🌱 I’m currently improving my skills in **Python** and exploring new technologies for web development.
-- 🔭 I have a passion for programming and solving real-world problems.
+- 🔭 I have a passion for programming and solving problems.
 
 
 ## 🛠️ Languages
