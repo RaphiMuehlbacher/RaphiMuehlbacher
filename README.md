@@ -3,11 +3,20 @@
 ## 🙋‍♂️ About Me
 - 🎓 I’m a student at **HTL Anichstraße** in Innsbruck Austria, focusing on Economics and Software Development.
 - 🌱 I’m currently improving my skills in **Python** and exploring new technologies for web development.
+- 📚 In school, I study **Java**, **MySQL**, and **JavaScript**. In my free time, I extend my **Python** knowledge and experiment with **mobile application development** using **Tauri** with a **Django** backend.
 - 🔭 I have a passion for programming and solving problems.
 
 
-## 🛠️ Languages
-- Python (main), Java, Typescript, React/Next.js, Rust
+## 🛠️ Technical Skills
+
+### Primary Languages
+- **Python** (main) 
+- **Java**, **TypeScript**, **React/Next.js**, **Rust**
+
+### Tools
+- Database Management: **MySQL**, **Sqlite**
+- Mobile and Desktop App: **Tauri(rust)**  
+- Backend Development: **Django, Django-rest-framework**,  **Next.js(full-stack)**
 
 ## 🚀 My Projects
 Here are some of my projects:
